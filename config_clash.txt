@@ -1,3 +1,2 @@
 https://update.glados-config.com/mihomo/543454/7b9d17e/80064/glados.yaml
-https://file.yuetoto.com/static/0f29f830e4632a9876440f47fae87664
 https://raw.githubusercontent.com/go4sharing/sub/main/sub.yaml
