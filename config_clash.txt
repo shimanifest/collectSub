@@ -1,5 +1,5 @@
-https://update.glados-config.com/mihomo/543454/7b9d17e/80064/glados.yaml
 https://raw.githubusercontent.com/go4sharing/sub/main/sub.yaml
+https://update.glados-config.com/mihomo/543454/7b9d17e/80064/glados.yaml
 http://162.19.79.201/s/6f9dad2be2e7b42e0c8220da811629ec
 https://5f236t3.flownets.xyz/s/775dee69676911124d3ef31260e3ae09
 https://uf.edu.kg/api/v1/client/subscribe?token=909ad0a9fbb15ab087fa1a418f5ea5e3
