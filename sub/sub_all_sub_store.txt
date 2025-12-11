@@ -1,11 +1,11 @@
 -- play_list --
 
 
+https://asa.lol/api/v1/client/subscribe?token=4d472f508b06f985da952d6a46d746d1
 https://pqjc.site/api/v1/client/subscribe?token=0e989ae0ccd5dcc084e988d37e3cf40c
 https://zjsub.gitpub.top/api/v1/client/subscribe?token=140c71acf1ef34766c267f9ea36ba79f
 https://sublink.52cloud.eu.org/api/v1/client/subscribe?token=8025d164-d726-40ed-af06-d7ea1138d1a4
 https://cola.xn--chqu2nzsxv3y.com/api/v1/client/subscribe?token=1a1412046a5696fc9596b737e668d7a5
-https://abffbd64.jego.vip/subscribe/mihomo/dc86f3052559c8e222d6c2f5e9904578
 https://bujidao.cc/sub?key=YRXf1SmtPOTs8aWTIxwGOP83ONjmYLo5
 https://sub.bujidao.org/sub?key=YRXf1SmtPOTs8aWTIxwGOP83ONjmYLo5
 https://bujidao.cc/sub?key=XOfnIze0b27ESmztFIuLkfwF4XHZ7qSA
@@ -21,11 +21,11 @@ https://zero.76898102.xyz/link/VJ93O5K98PneMoAA?list=shadowrocket
 https://zero.76898102.xyz/link/tm3RQPCHyZNqnEjg?list=shadowrocket
 https://1321078938-11mmjf3qkb-hk.scf.tencentcs.com/api/v1/client/subscribe?token=cb1270a6aa0980c4de79b49aad8098f7
 https://52daishu.uk/api/v1/client/subscribe?token=7ac825032570a917a24257a04a68568a
-https://s1.byte33.com/api/v1/client/subscribe?token=7d2e38c590841973fed71ac88d086b47
 https://sub.cokecloud.world/api/v1/client/subscribe?token=7f3929bf59f27b8a72a56f79c2696489
 https://xn--cp3a08l.com/api/v1/client/subscribe?token=183024e3b959f005edf06e562319a7b9
 https://yyds.emovpn.top/api/v1/client/subscribe?token=e3564accfb797578dc8251fc07207abe
-https://upm8kfu.nicecloud.win:8443/api/v1/client/94f3e7ac7da08180825a80a9ec3ea849
+https://api.apihs.cfd/bpjc?token=ccad9bf64bc299dc2a6af89ff95e560c
+https://api.apihs.cfd/bpjc?token=0da919885df940aedee4f0f69d992279
 https://dash.pqjc.site/api/v1/client/subscribe?token=04ce7a1f45da12841da0fa13086fce1f
 https://xuinibuhuizhenxinleba.v2bp.rest/zuihaodev2/06cdf3da918198ac3914c8044b808d83
 https://xb.788848.xyz/amei/4a2fdf1c34921d705fd8a14b8b1a4104
@@ -37,6 +37,7 @@ https://dyzk.020318.xyz/?token=d24404a213fc4dd681536826c509e0a1&amp;flag=clash
 https://dyzk.020318.xyz/?token=d24404a213fc4dd681536826c509e0a1&amp;flag=meta
 https://088ea81a-3547-85e0-4af6-dfcb3c6674aa.372372.xyz/api/v1/client/subscribe?token=5cb24ce689fecdb776dbcc0f5c29fde5
 https://088ea81a-3547-85e0-4af6-dfcb3c6674aa.372372.xyz/api/v1/client/subscribe?token=5cb24ce689fecdb776dbcc0f5c29fde5&amp;freeVPNjd
+https://qq.xlm.plus/api/v1/client/subscribe?token=9e5db95336ab586ac6c4e2306c4d25a9
 https://dlo3va.subxly.cfd:8443/api/v1/client/7f5c3ddd47101726d8ed275ca95b2621
 
 
@@ -577,6 +578,8 @@ https://api.abyssyun.top/api/v1/client/subscribe?token=926435ddf26a778b02263cf41
 https://api.abyssyun.top/api/v1/client/subscribe?token=b2461a92a0d67ab065a2140d5b477d6f
 https://api.acaisbest.shop/api/v1/client/subscribe?token=8c688dd0c67cfa63f989f0689ada2ddf
 https://api.acaisbest.shop/api/v1/client/subscribe?token=ea7046282fc195883735eb31b9cbc8f4
+https://api.apihs.cfd/bpjc?token=0da919885df940aedee4f0f69d992279
+https://api.apihs.cfd/bpjc?token=ccad9bf64bc299dc2a6af89ff95e560c
 https://api.bigme.online:8211/api/v1/client/subscribe?token=6674c05d3297078394f93ece18e5be9c
 https://api.bppp.shop/api/sub/5f71bc8019b1d93ac6b0230a43f38840
 https://api.bppp.shop/api/sub/921af3220df0280315f9c45c14622e6a
