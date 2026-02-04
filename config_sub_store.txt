@@ -1,15 +1,6 @@
 -- play_list --
 
-可用流量: 299993.31 GB https://lllo.x19890604.qzz.io/vJm3DVSdrw/dd39bb7d-2bea-41b5-be20-fa228a45f639/#default
-可用流量: 299484.53 GB https://hhhhhhhhj.191266.xyz/WFyGCV2kJQvjXnxbsFuJG6WRyjLAVp/2bfe58f7-da1d-45df-ab43-7c665b20ee29/#default
-可用流量: 298562.89 GB https://fffffg.890602.pp.ua/qwodKxO7K0pBR/4a7baca1-8048-4a91-8316-595b36657a54/#default
-可用流量: 299671.77 GB https://gggh.huangshang.online/obiGMPvI5Ia/98b419ef-83a2-4d1b-a23d-566b7f24477b/#default
-可用流量: 298550.82 GB https://fffvg.7777125.xyz/YFKR21cNFF/fc3704d6-8e5e-443a-bd5b-20ec7cfbe990/#default
+
 
 -- sub_list --
 
-https://lllo.x19890604.qzz.io/vJm3DVSdrw/dd39bb7d-2bea-41b5-be20-fa228a45f639/#default
-https://hhhhhhhhj.191266.xyz/WFyGCV2kJQvjXnxbsFuJG6WRyjLAVp/2bfe58f7-da1d-45df-ab43-7c665b20ee29/#default
-https://fffffg.890602.pp.ua/qwodKxO7K0pBR/4a7baca1-8048-4a91-8316-595b36657a54/#default
-https://gggh.huangshang.online/obiGMPvI5Ia/98b419ef-83a2-4d1b-a23d-566b7f24477b/#default
-https://fffvg.7777125.xyz/YFKR21cNFF/fc3704d6-8e5e-443a-bd5b-20ec7cfbe990/#default
