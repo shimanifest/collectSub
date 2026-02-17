@@ -1,13 +1,9 @@
 -- play_list --
 
-可用流量: 299715.88 GB https://r5t6.00890604.xyz/XTmI8q8CdxH/fb3e7204-949c-4e44-a22e-e02e3c27b251/#default
-可用流量: 296047.09 GB https://bbghy.00890604.xyz/KqGqWdzg40wm4Sycs/827beb2a-f97a-4b23-b733-adef30c98e17/#default
-可用流量: 291433.21 GB https://nnmjk.wc0.ccwu.cc/fNzbxPenXUOfNqVIB5pR2j4o/1798b14b-aee0-4008-ba9a-2e53877761b4/#default
-可用流量: 298014.46 GB https://fghy.00890604.xyz/mDBFBmyGxAzu8QZ94DX297Io/f063dee0-f33c-4e6c-83f9-4d884b62ba9e/#default
+可用流量: 296046.39 GB https://bbghy.00890604.xyz/KqGqWdzg40wm4Sycs/827beb2a-f97a-4b23-b733-adef30c98e17/#default
+可用流量: 299715.57 GB https://r5t6.00890604.xyz/XTmI8q8CdxH/fb3e7204-949c-4e44-a22e-e02e3c27b251/#default
 
 -- sub_list --
 
-https://r5t6.00890604.xyz/XTmI8q8CdxH/fb3e7204-949c-4e44-a22e-e02e3c27b251/#default
 https://bbghy.00890604.xyz/KqGqWdzg40wm4Sycs/827beb2a-f97a-4b23-b733-adef30c98e17/#default
-https://nnmjk.wc0.ccwu.cc/fNzbxPenXUOfNqVIB5pR2j4o/1798b14b-aee0-4008-ba9a-2e53877761b4/#default
-https://fghy.00890604.xyz/mDBFBmyGxAzu8QZ94DX297Io/f063dee0-f33c-4e6c-83f9-4d884b62ba9e/#default
+https://r5t6.00890604.xyz/XTmI8q8CdxH/fb3e7204-949c-4e44-a22e-e02e3c27b251/#default
