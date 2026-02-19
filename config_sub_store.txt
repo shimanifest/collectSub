@@ -1,11 +1,11 @@
 -- play_list --
 
-可用流量: 7319.0 GB https://mcp.dpenly.org/api/v1/client/subscribe?token=568cd289d2e89cb763c021a193d30869
+可用流量: 7307.66 GB https://mcp.dpenly.org/api/v1/client/subscribe?token=568cd289d2e89cb763c021a193d30869
+可用流量: 299603.93 GB https://bnm.222560.xyz/XTmI8q8CdxH/fb3e7204-949c-4e44-a22e-e02e3c27b251/#default
 可用流量: 296015.2 GB https://bbghy.00890604.xyz/KqGqWdzg40wm4Sycs/827beb2a-f97a-4b23-b733-adef30c98e17/#default
-可用流量: 290222.01 GB https://nnnnnmj.huangshang.site/FupqWTkts7sLS5gSw6DEIocjOdkC/5196aae7-1479-4f3c-978b-68e74977b509/#default
 
 -- sub_list --
 
 https://mcp.dpenly.org/api/v1/client/subscribe?token=568cd289d2e89cb763c021a193d30869
+https://bnm.222560.xyz/XTmI8q8CdxH/fb3e7204-949c-4e44-a22e-e02e3c27b251/#default
 https://bbghy.00890604.xyz/KqGqWdzg40wm4Sycs/827beb2a-f97a-4b23-b733-adef30c98e17/#default
-https://nnnnnmj.huangshang.site/FupqWTkts7sLS5gSw6DEIocjOdkC/5196aae7-1479-4f3c-978b-68e74977b509/#default
