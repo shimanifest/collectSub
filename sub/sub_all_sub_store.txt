@@ -16,7 +16,6 @@ https://jsjc.cfd/api/v1/client/subscribe?token=47937e14f4a8d142f73ce62fdcabc8d7
 https://jsjc.cfd/api/v1/client/subscribe?token=431255bc7920f793d7699a38d937b6f9
 https://jsjc.cfd/api/v1/client/subscribe?token=70e468efdcf48393fcea004ee0d3cf01
 https://jsjc.cfd/api/v1/client/subscribe?token=ea26d45de3c8208c5c5ba38cd312e7f9
-https://login.djjc.cfd/api/v1/client/subscribe?token=7e9be9daa6c53871645227a10e53c26f
 https://zero.76898102.xyz/link/CsElTBN1F3RqmjjQ?list=shadowrocket
 https://zero.76898102.xyz/link/T0MDjg1bJK13JKbv?list=shadowrocket
 https://zero.76898102.xyz/link/VJ93O5K98PneMoAA?list=shadowrocket
