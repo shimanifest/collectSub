@@ -1,7 +1,6 @@
 -- play_list --
 
 
-https://ninjasub.com/link/XuJjIoZPaC1puYCe?clash=1
 https://ninjasub.com/link/b1UjtCoAZeyyCFqE?clash=1
 https://ninjasub.com/link/b1UjtCoAZeyyCFqE?sub=1
 https://guolicheng.cfd/api/v1/client/subscribe?token=96a35a4d5c8bd511c52cbfa1bf3f9f5c
@@ -32,6 +31,7 @@ https://xship.top/v1/subscribe?starlink=7ORxT1G66ZWe_yvuuVs_GPZB
 https://dyzk.020318.xyz/?token=d24404a213fc4dd681536826c509e0a1&amp;flag=clash
 https://dyzk.020318.xyz/?token=d24404a213fc4dd681536826c509e0a1&amp;flag=meta
 https://JpjfL54G.subxly.cfd:8443/api/v1/client/b392e94d30c17cce9c52403c42b6a07d
+http://xn--ciq7ko0lg8x.com/ggbjgpy?token=baddb38c533f795f6e558ae49edaa43f
 https://dlo3va.subxly.cfd:8443/api/v1/client/7f5c3ddd47101726d8ed275ca95b2621
 
 
@@ -274,6 +274,7 @@ http://xbvpn.vip/api/v1/client/subscribe?token=228c3d63fc70a86624f2220c31e756cd
 http://xby2.op-house.top:2096/sub/b86iql0jmck3pfn0
 http://xn--4gq62f8yih87b.site/api/v1/client/subscribe?token=37e6a3551a893983f800c25c3a4bbee9
 http://xn--4gq62f8yih87b.site/api/v1/client/subscribe?token=6b99851cc58cfd17bb32bc7816a7d086
+http://xn--ciq7ko0lg8x.com/ggbjgpy?token=baddb38c533f795f6e558ae49edaa43f
 http://xsj520.top/api/v1/client/subscribe?token=fa89816170530371f1ece408222e3f18
 http://xyyjc.top/api/v1/client/subscribe?token=5a9aa7daa62077d36af9cdf635bb4e6f
 http://yuean.aiguardcloud.tech/s/9b3519d9ad373b79633d902e746cb308
