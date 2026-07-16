@@ -7,5 +7,7 @@ clash订阅:
 - https://update.glados-config.com/mihomo/543454/7b9d17e/80064/glados.yaml
 v2订阅:
 - http://cs.tuz.me
-开心玩耍: []
-机场订阅: []
+开心玩耍:
+- 可用流量:97.38 GB                    https://cdn.pikayun.com/s/39cd0ff176734be4e540ae0f0fad3d3b
+机场订阅:
+- https://cdn.pikayun.com/s/39cd0ff176734be4e540ae0f0fad3d3b
